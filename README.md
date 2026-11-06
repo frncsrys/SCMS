@@ -97,3 +97,4 @@ Keep the `lib` folder next to the `.jar` file, since it holds the required libra
 ## Author
 
 Developed by Francis Reyes.
+**Date:** May 4, 2024
